@@ -16,7 +16,7 @@
 title: Pralhad's Blog
 email: https://github.com/Pralhad-Deshpande
 description: >- # this means to ignore newlines until "baseurl:"
- This blog documents the wonderful concepts that I have leared as I explore my interest in crypto-economics. Although technical concepts such as authenticated BFT and privacy will be discussed at great length, this is by no means a purely technical blog. Blog posts may take a historical perspective and dive into the evolution of money and explore how crypto-economics fits into that space. Blog posts may also study popular present day payment systems and explore the arguments for central bank issued digital currencies. 
+A blog about crypto-economics, consensus, transaction privacy, the evolution of money, payment systems and fiat digital currencies. 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

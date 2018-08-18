@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 To get the measure of a man, know what he reads. Here's my  
-[goodreads profile:](https://www.goodreads.com/user/show/42518417-pralhad-deshpande)
+[goodreads profile.](https://www.goodreads.com/user/show/42518417-pralhad-deshpande)

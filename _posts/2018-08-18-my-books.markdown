@@ -5,5 +5,6 @@ date:   2018-08-18 14:02:43 +0800
 categories: jekyll update
 ---
 
-To get the measure of a man, know what he reads. Here's my  
-[goodreads profile.](https://www.goodreads.com/user/show/42518417-pralhad-deshpande)
+To get the measure of a man, know what he reads. 
+
+Here's my [goodreads profile.](https://www.goodreads.com/user/show/42518417-pralhad-deshpande)
